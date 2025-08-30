@@ -17,30 +17,29 @@ public class BarrelManager : MonoBehaviour
             barrel.name = "Barrel_" + i;
 
             barrel.AddComponent<BarrelBehavior>();
+
+            // Add Rigidbody only if it doesn't already exist
+            Rigidbody rb = barrel.GetComponent<Rigidbody>();
+            if (rb == null)
+            {
+                rb = barrel.AddComponent<Rigidbody>();
+                rb.mass = Random.Range(0.5f, 5f);
+            }
+
             allBarrels.Add(barrel);
         }
     }
 
     void Update()
     {
-        for (int i = 0; i < allBarrels.Count; i++)
+        // Only apply random rotation every 5 frames for efficiency
+        if (Time.frameCount % 5 == 0)
         {
-            GameObject b = allBarrels[i];
-
-            // Unnecessary per-frame tag check
-            if (b.tag != "Untagged")
-                Debug.Log("Still tagged");
-
-            // Constantly re-finding components
-            Rigidbody rb = b.GetComponent<Rigidbody>();
-            if (rb == null)
+            for (int i = 0; i < allBarrels.Count; i++)
             {
-                rb = b.AddComponent<Rigidbody>();
-                rb.mass = Random.Range(0.5f, 5f);
+                GameObject b = allBarrels[i];
+                b.transform.Rotate(Vector3.up * Random.Range(0.1f, 10f));
             }
-
-            // Random rotation every frame = no batching
-            b.transform.Rotate(Vector3.up * Random.Range(0.1f, 10f));
         }
     }
 }
