@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CharController_Motor : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class CharController_Motor : MonoBehaviour
     private float moveFB, moveLR;
     private float rotX, rotY;
 
+    private bool isCursorLocked = true;
+
     void Start()
     {
         if (character == null)
@@ -24,27 +27,34 @@ public class CharController_Motor : MonoBehaviour
         webGLRightClickRotation = false;
         sensitivity *= 2;
 #endif
+
+        LockCursor();
     }
 
     void Update()
     {
+
         moveFB = Input.GetAxis("Horizontal") * speed;
         moveLR = Input.GetAxis("Vertical") * speed;
+
 
         rotX = Input.GetAxis("Mouse X") * sensitivity;
         rotY = Input.GetAxis("Mouse Y") * sensitivity;
 
+
         Vector3 movement = new Vector3(moveFB, -9.8f, moveLR) * Time.deltaTime;
 
-        if (webGLRightClickRotation && Input.GetKey(KeyCode.Mouse0) || !webGLRightClickRotation)
-        {
-            CameraRotation(rotX, rotY);
-        }
+        CameraRotation(rotX, rotY);
 
         movement = transform.rotation * movement;
         if (character != null)
         {
             character.Move(movement);
+        }
+
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            ToggleCursorLock();
         }
     }
 
@@ -57,6 +67,32 @@ public class CharController_Motor : MonoBehaviour
         if (cam != null)
         {
             cam.transform.Rotate(-rotY * Time.deltaTime, 0, 0);
+        }
+    }
+
+    void LockCursor()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+        isCursorLocked = true;
+    }
+
+    void UnlockCursor()
+    {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+        isCursorLocked = false;
+    }
+
+    void ToggleCursorLock()
+    {
+        if (isCursorLocked)
+        {
+            UnlockCursor();
+        }
+        else
+        {
+            LockCursor();
         }
     }
 }
