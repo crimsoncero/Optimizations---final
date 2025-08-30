@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class CullDistances : MonoBehaviour
 {
-    public float[] distances = new float[32];
+    public float[] distances = new float[5];
+
     private Camera cam;
 
     void Start()
     {
-        // Cache Camera component for future use
         cam = GetComponent<Camera>();
         if (cam != null)
         {
@@ -21,3 +21,6 @@ public class CullDistances : MonoBehaviour
         }
     }
 }
+
+//scene b element number and content 8 90 9 160 10 320
+//scene a element number and content 8 80 9 170 10 360
