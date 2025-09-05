@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 33033584134298316}
   - component: {fileID: 23230908275929548}
   - component: {fileID: 65380690651585578}
-  - component: {fileID: 7873436675530011617}
   m_Layer: 8
   m_Name: Prop_Barrel1
   m_TagString: Untagged
@@ -109,15 +108,3 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0432761, y: 1.3884422, z: 1.0434694}
   m_Center: {x: 0.0010420382, y: 0.6895899, z: 0.0017462075}
---- !u!114 &7873436675530011617
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 106998}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c1715a8290564441897c91336436ca4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

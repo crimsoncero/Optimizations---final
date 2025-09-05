@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CullDistances : MonoBehaviour
 {
-    public float[] distances = new float[5];
+    public float[] distances = new float[32];
 
     private Camera cam;
 
