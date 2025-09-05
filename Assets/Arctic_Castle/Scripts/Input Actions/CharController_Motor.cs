@@ -57,7 +57,7 @@ public class CharController_Motor : MonoBehaviour
             ToggleCursorLock();
         }
     }
-
+    
     void CameraRotation(float rotX, float rotY)
     {
         transform.Rotate(0, rotX * Time.deltaTime, 0);
