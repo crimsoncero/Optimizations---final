@@ -2,19 +2,24 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: ICE_IcePlates
   m_Shader: {fileID: 4800000, guid: 481649ff2fb2d004f9d8d6159d186e54, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -62,6 +67,7 @@ Material:
         m_Texture: {fileID: 2800000, guid: c8ad69516f4c73341aa744653ac11175, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _DetailInt: 0.85714287
     - _DetailTile: 30
@@ -88,3 +94,5 @@ Material:
     - _SSSColor: {r: 0.13951556, g: 0.53297466, b: 0.65882355, a: 0}
     - _SelfIlum: {r: 0, g: 0, b: 0, a: 0}
     - _SelfIlumination: {r: 0.50239795, g: 0.6198697, b: 0.678, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
