@@ -4,15 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d13cc51-0099-4b76-85b9-6d4fa7c33a82" name="Changes" comment="" />
+    <list default="true" id="7d13cc51-0099-4b76-85b9-6d4fa7c33a82" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_Aurora.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_Aurora.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_VolumeLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_VolumeLight.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Doors.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Doors.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_GreatHall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_GreatHall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Hut.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Hut.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Keep.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Keep.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Misc.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Misc.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Trunk1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Trunk1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceBlocks1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceBlocks1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceFloaters.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceFloaters.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IcePlates.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IcePlates.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_TilingIce.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_TilingIce.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Blocker.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Blocker.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Grid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_HumanScale.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_HumanScale.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TRIGGER.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TRIGGER.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TilingSnow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TilingSnow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Water.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Banners.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Banners.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Skeleton.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Skeleton.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_CobbleRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_CobbleRocks.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_RockPlates.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_RockPlates.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Large.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Large.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Medium.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Medium.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Tiling1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Tiling1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Scripts/Input Actions/FpsController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Scripts/Input Actions/FpsController.prefab" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "crimsoncero"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/crimsoncero/Optimizations---final.git",
+    "accountId": "7f899461-41b0-4182-89ea-2bfde7c2a379"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/612ea0208cc847f49d539e6511ed3cd51df400/e5/5a26308e/Camera.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="32K16QCbnxOlMroT9UrneEw2KHZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.43f1\Editor\Unity.exe" />
@@ -66,8 +137,45 @@
     </configuration>
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d13cc51-0099-4b76-85b9-6d4fa7c33a82" name="Changes" comment="" />
+      <created>1757154275626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757154275626</updated>
+      <workItem from="1757154277926" duration="772000" />
+    </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
