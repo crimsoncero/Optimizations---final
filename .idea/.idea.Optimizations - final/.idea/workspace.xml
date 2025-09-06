@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d13cc51-0099-4b76-85b9-6d4fa7c33a82" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_Aurora.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_Aurora.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_VolumeLight.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ATM_VolumeLight.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BGR_Mountain3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Doors.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Doors.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_GreatHall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_GreatHall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Hut.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Hut.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Keep.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Keep.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Misc.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/BLD_Misc.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Branch3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Trunk1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/FOL_Trunk1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceBlocks1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceBlocks1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceFloaters.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IceFloaters.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IcePlates.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_IcePlates.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_TilingIce.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ICE_TilingIce.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Blocker.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Blocker.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Grid.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_HumanScale.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_HumanScale.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TRIGGER.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TRIGGER.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TilingSnow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_TilingSnow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/MISC_Water.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Banners.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Banners.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Skeleton.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/PROP_Skeleton.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_CobbleRocks.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_CobbleRocks.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Obelisks2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_RockPlates.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_RockPlates.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Large.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Large.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Medium.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Rocks_Medium.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Tiling1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Materials/ROCK_Tiling1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arctic_Castle/Scripts/Input Actions/FpsController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arctic_Castle/Scripts/Input Actions/FpsController.prefab" afterDir="false" />
-    </list>
+    <list default="true" id="7d13cc51-0099-4b76-85b9-6d4fa7c33a82" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,24 +13,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "crimsoncero"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;crimsoncero&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/crimsoncero/Optimizations---final.git",
-    "accountId": "7f899461-41b0-4182-89ea-2bfde7c2a379"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/crimsoncero/Optimizations---final.git&quot;,
+    &quot;accountId&quot;: &quot;7f899461-41b0-4182-89ea-2bfde7c2a379&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/612ea0208cc847f49d539e6511ed3cd51df400/e5/5a26308e/Camera.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="32K16QCbnxOlMroT9UrneEw2KHZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -75,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "amit",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
